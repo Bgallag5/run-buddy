@@ -1,2 +1,3 @@
 # run-buddy
 This project ...
+# Run Buddy Inc.
