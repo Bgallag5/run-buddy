@@ -17,3 +17,6 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc
+
+
+  this is my change 
