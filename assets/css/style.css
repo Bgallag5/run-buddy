@@ -453,4 +453,8 @@ background: #fce138;
   flex: 0 100%;
 }
 
+.contact-form{
+  order: 3;
+}
+
 }
