@@ -218,7 +218,7 @@ background: #fce138;
   border-bottom: 1px solid #39a6b2;
 }
 
-.step:last-chil {
+.step:last-child {
   border-bottom: none;
 }
 
